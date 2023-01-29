@@ -1,0 +1,30 @@
+.categories-container {
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 10px;
+}
+
+.categories-card {
+    margin: 5%;
+    height: 350px;
+    
+}
+
+.categories-card:hover {
+    background-color: rgb(244, 255, 127);
+    border: 3px solid black;
+    padding: 1%;
+}
+
+.categories-button {
+    margin: 0;
+    position: absolute;
+    bottom: -5%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    background-color:rgb(226, 178, 75);
+    color: black;
+    font-weight: bold;
+}
+

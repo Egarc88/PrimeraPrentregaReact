@@ -1,0 +1,19 @@
+.img1 {
+    width: 100%;
+    object-fit: cover;
+    
+  }
+  
+  .logo {
+    width: 15%;
+    height: 50%;
+    margin-top: 1%;
+  }
+  
+  .navi {
+    font-weight: bolder;
+    font-size: 150%;
+    height: 100px;
+    width: 100%;
+  }
+
